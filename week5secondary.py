@@ -1,5 +1,5 @@
 #Week 5 Python coding example
-#permutations
+#permutations generator
 import itertools
 user_input = input("enter your numbers or letters here: ")
 #list of items
