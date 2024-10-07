@@ -11,7 +11,7 @@ for x in user_input:
     else:
         values.append(x)
         
-permlength = int(input("enter the permutation length "))
+permlength = int(input("how many subsets do you want in your permutation? "))
 #call to itertools library to generate permutations of length 3 
 per = itertools.permutations(values, permlength)
 #print permuations 
