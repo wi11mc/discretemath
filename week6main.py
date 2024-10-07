@@ -10,6 +10,3 @@ print(ttg.Truths(['~ p→ (~q ∨ p )']))
 print(ttg.Truths(['(~ p→q ) ∨ (~p ∧ ~q)']))
 
 print(ttg.Truths(['~p →(q ∧ r).']))
-
-
-
